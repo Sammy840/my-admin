@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-admin/static/css/main.9ecdd67c.css",
+    "main.js": "/my-admin/static/js/main.75062787.js",
+    "static/media/eng.png": "/my-admin/static/media/eng.727c2d07b9d551db0db6.png",
+    "static/media/pp.jpg": "/my-admin/static/media/pp.ea8f061bc93b72e8a139.jpg",
+    "static/media/SgBuds.PNG": "/my-admin/static/media/SgBuds.8bb27300b85e89bbcb27.PNG",
+    "static/media/zane.jpg": "/my-admin/static/media/zane.f1409f743a4186d42aaf.jpg",
+    "static/media/male.jpg": "/my-admin/static/media/male.835c1077f2410ccdb7db.jpg",
+    "index.html": "/my-admin/index.html",
+    "main.9ecdd67c.css.map": "/my-admin/static/css/main.9ecdd67c.css.map",
+    "main.75062787.js.map": "/my-admin/static/js/main.75062787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ecdd67c.css",
+    "static/js/main.75062787.js"
+  ]
+}
